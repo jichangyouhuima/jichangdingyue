@@ -1,6 +1,22 @@
 # jichangdingyue
 GitHub 上的完整机场订阅仓库模板，包括 README、Clash/Mihomo、sing-box、订阅转换和 GitHub Actions 自动更新。
+README.md
 
+subscriptions/urls.yaml
+
+clash/config.yaml
+
+sing-box/config.json
+
+rules/direct.list
+rules/proxy.list
+rules/reject.list
+
+converter/subconverter.yaml
+
+scripts/update.py
+
+.github/workflows/update.yml
 # Airport Subscription Config
 
 个人代理订阅配置仓库。
@@ -27,6 +43,7 @@ https://raw.githubusercontent.com/USER/airport-subscription/main/clash/config.ya
 
 导入：
 https://raw.githubusercontent.com/USER/airport-subscription/main/sing-box/config.json
+
 ---
 
 ## 自动更新
