@@ -1,7 +1,0 @@
-subscriptions:
-
-  - name: main
-    url: "https://yadaxiao.com/your-subscription"
-
-  - name: backup
-    url: "https://yadaxiao.com/backup-subscription"
